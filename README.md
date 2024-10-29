@@ -29,6 +29,7 @@
 4. قم بتشغيل الهجرات:
     
     php artisan migrate
+    php artisan db:seed
     
 5. قم بتشغيل الخادم:
     
